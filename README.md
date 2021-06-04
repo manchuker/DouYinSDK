@@ -1,6 +1,6 @@
 # AwemeSDK
 
-> 查看网站：http://www.xstatus.cn/ 获取token、host
+> 查看网站：http://www.xstatus.cn/ 获取token、host[仅限PC端]
 >
 
 ## ChangeLog
