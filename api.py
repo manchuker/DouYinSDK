@@ -22,7 +22,7 @@ class API:
     UserPromotions      = '/douyin/user/promotions'
     UserReputation      = '/douyin/user/reputation'
     UserFollowings      = '/douyin/user/followings'
-    UserFollowers      = '/douyin/user/followers'
+    UserFollowers       = '/douyin/user/followers'
 
     # 视频相关
     VideoComments       = '/douyin/video/comments'
